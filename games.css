@@ -1,0 +1,19 @@
+.rapper{
+    border: 5px;
+    border-color: cornflowerblue;
+}
+.rapper h1{
+    padding: 20px 100px 30px 10px;
+
+}
+#backButton{
+    padding: 2px;
+    color: cornflowerblue;
+    margin-left: 15px;
+    margin-top: 20px;
+    display: inline-block;
+
+}
+#buttonText {
+    background-color: blue;
+}
